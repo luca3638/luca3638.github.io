@@ -24,13 +24,13 @@ for (i = 0; i < acc.length; i++) {
     } 
   });
 }
-let myName = "Lucas Gaming";
+let myName = "Lucas";
 let firstlink = document
 .getElementsByTagName("a")[0];
 firstlink.innerHTML= myName;
 
 let title = document
 .getElementsByTagName("title")[0];
-title.innerHTML= myName + "s mega fede og seje Logbog"
+title.innerHTML= myName + "cool Logbog"
 
 K
