@@ -32,5 +32,3 @@ firstlink.innerHTML= myName;
 let title = document
 .getElementsByTagName("title")[0];
 title.innerHTML= myName + "cool Logbog"
-
-K
